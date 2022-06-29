@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": "9skjsBn",
+            "title": "asca",
+            "description": "ascas",
+            "price": "105532"
+        },
+        {
+            "id": "3O1QWi6",
+            "title": "products",
+            "description": "Your password must be 8-20 characters long.",
+            "price": "1254"
+        }
+    ]
+}
